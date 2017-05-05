@@ -1,6 +1,9 @@
 # SynSeg
 A simply Matlab program that allows you to align, segment and colocalize different types of cellular bodies. 
 
+# Use
+The first step to use this script you have to run the MAIN_GUI.m script. From there, there are different menus that allows you to (1) stack, (2) align, (3) segment, and (4) colocalize different images you have.
+
 # License
 This code belongs to the Memory Unit of the Hospital de Sant Pau in Barcelona. 
-For any question you have you can contact with: jpegueroles@santpau.cat or mcolomc@santpau.cat
+For any question or bug report you can contact with: jpegueroles@santpau.cat or mcolomc@santpau.cat
