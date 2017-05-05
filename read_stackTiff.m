@@ -1,3 +1,4 @@
+%This function simply reads a stack of tiff images
 function FinalImage = read_stackTiff(FileTif)
 
 InfoImage=imfinfo(FileTif);
