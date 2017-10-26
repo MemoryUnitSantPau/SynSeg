@@ -1,5 +1,5 @@
 # SynSeg
-A Matlab package for alignment, segmentation and colocalization for different cellular bodies. 
+A Matlab package for alignment, segmentation and colocalization of different cellular bodies. 
 
 # Use
 The first step to use this script you have to run the MAIN_GUI.m script. From there, there are different menus that allows you to (1) stack, (2) align, (3) segment, and (4) colocalize different images you have.
